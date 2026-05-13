@@ -7,23 +7,11 @@
 
 ```yaml
 name: Anushka Shelke
-education: B.E Computer Engineering
-college: PCCOE Pune
+education: B.E Computer Engineering '27
+college: PCET's NMIET Pune
 role: Full Stack Developer
-skills:
-  - MERN Stack
-  - Java
-  - REST APIs
-  - MongoDB
-  - React.js
-  - Node.js
-currently_learning:
-  - Open Source
-  - Advanced DSA
-  - System Design
-exploring:
-  - AI Integration
-  - Scalable Web Applications
+skills: MERN Stack . Java . REST APIs . Real-Time System . DSA
+exploring: AI Integration . Open Source . Scalable Web Applications
 ```
 
 ---
@@ -65,7 +53,6 @@ exploring:
 
 # 🏆 Achievements
 
-- 🥇 Top 50 Finalist — Smart India Hackathon (SIH)
 - 🚀 Shortlisted Participant — Techpragyan 2025
 - 🎓 Scholarship Recipient — Lila Girl 2023
 - 💡 SIH Internal Hackathon Finalist
@@ -77,14 +64,6 @@ exploring:
 - LeetCode Problem Solving
 - HashMap, HashSet, Arrays, Strings
 - Currently improving DSA in Java
-
----
-
-# 📊 GitHub Stats
-
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushkash26&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkash26&layout=compact)
 
 ---
 

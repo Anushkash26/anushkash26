@@ -6,7 +6,7 @@
 ## 🧑‍💻 whoami
 
 ```yaml
-name: Anushka Shelke.
+name: Anushka Shelke
 education: B.E Computer Engineering '27
 college: PCET's NMIET Pune
 role: Full Stack Developer
@@ -54,7 +54,9 @@ exploring: AI Integration . Open Source . Scalable Web Applications
 # 🏆 Achievements
 
 - 🚀 Shortlisted Participant — Techpragyan 2025
+- ✨ JLPT N5 Certified (Japanese Language)
 - 🎓 Scholarship Recipient — Lila Girl 2023
+- ✨ Digital Poster Competition Winner
 - 💡 SIH Internal Hackathon Finalist
 
 ---

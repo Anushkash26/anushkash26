@@ -6,7 +6,7 @@
 ## 🧑‍💻 whoami
 
 ```yaml
-name: Anushka Shelke
+name: Anushka Shelke.
 education: B.E Computer Engineering '27
 college: PCET's NMIET Pune
 role: Full Stack Developer

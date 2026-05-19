@@ -54,9 +54,8 @@ exploring: AI Integration . Open Source . Scalable Web Applications
 # 🏆 Achievements
 
 - 🚀 Shortlisted Participant — Techpragyan 2025
-- ✨ JLPT N5 Certified (Japanese Language)
-- 🎓 Scholarship Recipient — Lila Girl 2023
-- ✨ Digital Poster Competition Winner
+- ✨ JLPT N5 Certified (Japanese Language) 
+- 🎓 LPF Scholarship Recipient — Lila Girl 2023
 - 💡 SIH Internal Hackathon Finalist
 
 ---

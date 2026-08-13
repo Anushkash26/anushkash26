@@ -10,7 +10,7 @@ name: Anushka Shelke
 education: B.E Computer Engineering '27
 college: PCET's NMIET Pune
 role: Full Stack Developer
-skills: MERN Stack . Java . REST APIs . Real-Time System . DSA
+skills: MERN Stack . Java . REST APIs . JDBC . Spring . DSA
 exploring: AI Integration . Open Source . Scalable Web Applications
 ```
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Shelke</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java | Open Source & Cloud ComputingEnthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Java | Open Source & Cloud Computing Enthusiast</h3>
 
 ---
 

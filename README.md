@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Shelke</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Java | Open Source & Cloud ComputingEnthusiast</h3>
 
 ---
 
@@ -9,8 +9,8 @@
 name: Anushka Shelke
 education: B.E Computer Engineering '27
 college: PCET's NMIET Pune
-role: Full Stack Developer
-skills: MERN Stack . Java . REST APIs . JDBC . Spring . DSA
+role: Aspiring Software Developer
+skills: MERN Stack . Java . REST APIs . JDBC . Spring . DSA . Cloud
 exploring: AI Integration . Open Source . Scalable Web Applications
 ```
 
